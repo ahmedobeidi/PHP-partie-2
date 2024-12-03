@@ -98,3 +98,14 @@ else {
     echo 'c\'est ok !!';
 }
 */
+
+/* Exercice 8 
+$isOK = false;
+
+if ($isOK) {
+    echo 'c\'est ok !!';
+}
+else {
+    echo 'c\'est pas bon !!!';
+}
+*/
